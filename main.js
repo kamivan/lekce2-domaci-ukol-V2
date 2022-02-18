@@ -16,7 +16,6 @@ function beRed() {
     beRedButton.classList.toggle("beRed");
 }
 
-
 function beBigger() {
     console.log("test ");
     let beBiggerButton = document.querySelector(".lion");
