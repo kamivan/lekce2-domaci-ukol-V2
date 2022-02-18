@@ -10,7 +10,6 @@ function onMouseLeaveLion() {
     lion.style.fontWeight = "normal";
 }
 
-
 function beRed() {
     let beRedButton = document.querySelector(".lion");
     beRedButton.classList.toggle("beRed");
